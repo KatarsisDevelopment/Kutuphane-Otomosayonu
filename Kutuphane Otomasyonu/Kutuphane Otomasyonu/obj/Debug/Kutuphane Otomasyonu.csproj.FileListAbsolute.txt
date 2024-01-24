@@ -1,0 +1,7 @@
+C:\Kutuphane Otomosayonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe.config
+C:\Kutuphane Otomosayonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe
+C:\Kutuphane Otomosayonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.pdb
+C:\Kutuphane Otomosayonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Kutuphane Otomosayonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Kutuphane Otomosayonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.exe
+C:\Kutuphane Otomosayonu\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.pdb
