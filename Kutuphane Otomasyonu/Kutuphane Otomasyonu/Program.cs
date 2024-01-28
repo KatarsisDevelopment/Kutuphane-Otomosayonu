@@ -2,7 +2,8 @@
     using System.Collections.Generic;
     using BookClass;
     using LoanClass;
-using System.Media;
+    using System.Media;
+
     class Library
     {
         private List<Books> books;
@@ -35,10 +36,13 @@ using System.Media;
         else
         {
             Console.WriteLine("Kitap Listesi:");
-            Console.WriteLine("ID\tBaşlık\tYazar\tToplam Kopya\tKullanılabilir Kopya");
             foreach (var book in books)
             {
-                Console.WriteLine($"{book.Id}\t{book.Title}\t{book.Author}\t{book.TotalCopies}\t{book.AvailableCopies}");
+                Console.WriteLine("ID : " + $"\t{book.Id}");
+                Console.WriteLine("Title : " + $"\t{book.Title}");
+                Console.WriteLine("Author : " + $"\t{book.Author}");
+                Console.WriteLine("TotalCopies : " + $"\t{book.TotalCopies}");
+                Console.WriteLine("AvailableCopies : " + $"\t{book.AvailableCopies}");
             }
         }
         }
@@ -133,14 +137,14 @@ using System.Media;
 
     class ConsoleUI
     {
-        public static string GetInput(string prompt)
-        {
-            Console.Write(prompt + ": ");
-            return Console.ReadLine();
-        }
+    public static string GetInput(string prompt)
+    {
+        Console.Write(prompt + ": ");
+        return Console.ReadLine();
+    }
     }
 
-    class Program
+class Program
     {
     public static void PrintAnim(string T , int Speed)
     {
